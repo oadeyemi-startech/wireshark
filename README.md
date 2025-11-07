@@ -5,7 +5,7 @@ The main objective of this activity is to use the Wireshark protocol analyzer to
 ### Skills Learned
 - Installation and setup of network analysis software (Wireshark).
 - Network Packet Capture using Wireshark on a selected network interface (WiFi).
-- Filtering captured network traffic to view specific protocols (e.g., ICMP).
+- Filtering captured network traffic to view specific protocols (e.g., ICMP - Internet Control Message Protocol).
 - Using the command line utility "ipconfig" to determine a computer's network configuration (IPv4 Address, Subnet Mask, Default Gateway).
 - Performing a "ping sweep" to discover active hosts on a local area network (LAN).
 - Analyzing captured packets in Wireshark to locate and record source and destination IP/MAC addresses for local hosts.
